@@ -1,0 +1,14 @@
+.homepage {
+    background-image: url("./Images/Home-Background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 1px solid black;
+}
+
+.mb-5 {
+    margin-bottom: 12rem!important;
+}
+
+.pt-5 {
+    padding-top: 12rem!important;
+}
