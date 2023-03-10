@@ -2,7 +2,6 @@
     background-image: url("./Images/Home-Background.png");
     background-repeat: no-repeat;
     background-size: cover;
-    border: 1px solid black;
 }
 
 .mb-5 {
@@ -15,4 +14,10 @@
 
 .card{
     background-color: #dee2e6;
+}
+
+.lang {
+    background: #EBEBFF;
+    height: 30px;
+    padding: 2px 12px;
 }
