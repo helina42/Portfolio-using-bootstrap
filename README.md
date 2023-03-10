@@ -94,7 +94,10 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
   cd my-folder
-  git clone https://chandan-devs-tech.github.io/Portfolio-Using-Bootstrap/
+  git clone: https://chandan-devs-tech.github.io/Portfolio-Using-Bootstrap/
+  
+  cd my-folder
+  git clone :https://github.com/helina42/Portfolio-using-bootstrap.git
 
 
 ### Usage
@@ -111,11 +114,17 @@ To run the project, execute the following command:
 ## 👥 Authors <a name="authors"></a>
 
 > Mention all of the collaborators of this project.
-👤 **Author**
+
+👤 **Chandan Gupta**
 
 - GitHub: [@githubhandle](https://github.com/Chandan-devs-tech)
 - Twitter: [@twitterhandle](https://twitter.com/ChandanGuptaDev)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/chandangupta-devs/)
+
+- 👤 **Helina Abebe**
+
+- GitHub: [@helina42](https://github.com/helina42)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
